@@ -1,0 +1,18 @@
+{
+    "paneer butter masala": {"type": "veg"},
+    "dal makhani": {"type": "veg"},
+    "masala dosa": {"type": "veg"},
+    "idli sambhar": {"type": "veg"},
+    "fried rice": {"type": "veg"},
+    "hakka noodles": {"type": "veg"},
+    "butter chicken": {"type": "non-veg"},
+    "hyderabadi biryani": {"type": "non-veg"},
+    "chilli chicken": {"type": "non-veg"},
+    "fish curry": {"type": "non-veg"},
+    "tandoori chicken": {"type": "non-veg"},
+    "prawns masala": {"type": "non-veg"},
+    "masala chai": {"type": "all"},
+    "lassi": {"type": "all"},
+    "cold coffee": {"type": "all"},
+    "fresh lime soda": {"type": "all"}
+}
